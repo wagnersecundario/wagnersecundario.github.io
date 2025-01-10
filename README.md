@@ -1,6 +1,20 @@
--Criação de página HTML;
--Vinculação GitHub remoto e local;
--Vídeo aula:
-https://youtu.be/nRVaZEFsON4?si=9oSHOrpNvNvR1NUz
-https://youtu.be/SWKyvojyw3A?si=WvNUcObkw4w2T9nN
-https://youtu.be/fAhyi_R-AM4?si=E8rhVrV7wtC75QpD
+# Summary
+Publishing simple websites;
+Linking remote GitHub with local;
+Editing the web layout;
+Flutter code;
+
+## HDML website
+
+Creating a HDML website:
+-Video 1: https://www.youtube.com/watch?v=nRVaZEFsON4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=11
+-Video 2: https://www.youtube.com/watch?v=SWKyvojyw3A&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=10
+-Video 3: https://www.youtube.com/watch?v=fAhyi_R-AM4&list=PLTOEVCz06VQBrcZ-u4v_0QlR-rABTI7pk&index=9
+
+# App Layout
+Publishing a website:
+-Video 1: https://www.youtube.com/watch?v=RFXcr7AVPhk
+-Video 2: https://www.youtube.com/watch?v=hdFaT0ZwbUA&t=407s
+-Video 3: https://www.youtube.com/watch?v=iShmWczo0JU
+-Video 4: https://www.youtube.com/watch?v=lYPF-QJ8k5U&t=2576s
+
